@@ -14,7 +14,7 @@
 - Tabulous - Usado para fazer um menu tab bar- https://github.com/techiferous/tabulous
 - Scroll Up - Cria um botão que e usado para ir no começo da pagina -  https://github.com/markgoodyear/scrollup
 - Scrolline - Usado para fazer scrol vertical - https://github.com/anthonyly/scrolline.js/tree/master
-- 
+
 
 # Loader  
 - Fake Loander - usado paa fazer loader da pagina antes de ela aparecer - https://github.com/joaopereirawd/fakeLoader.js
