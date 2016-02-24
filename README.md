@@ -2,9 +2,9 @@
 
 # Slider Show
 - ScatteredPolaroidsGallery - Plugin usado pada fazer um slide de image - https://github.com/codrops/ScatteredPolaroidsGallery
-- ElastiStack  - Usado para fazer Slide Show estilo livro -https://github.com/codrops/ElastiStack
+- ElastiStack  - Usado para fazer Slide Show estilo livro - https://github.com/codrops/ElastiStack
 -Own carrosel - Plugin usado para fazer slide carrosel - http://owlgraphic.com/owlcarousel/
-- Baraja -  Usado para fazer um slide show estilo de cards -https://github.com/codrops/Baraja
+- Baraja -  Usado para fazer um slide show estilo de cards - https://github.com/codrops/Baraja
 
 # Graficos
 - Charstjs - Plugin usado para fazer graficos - http://www.chartjs.org/
@@ -24,10 +24,10 @@
 - Unitegalley - Usado para deixar as imagens todos possicionado de form dinamica - https://github.com/vvvmax/unitegallery/
 
 # Animações 
--Scroll Magic - Usado para fezer animações conforme o scroll da pagina -http://janpaepke.github.io/ScrollMagic/
+-Scroll Magic - Usado para fezer animações conforme o scroll da pagina - http://janpaepke.github.io/ScrollMagic/
 
 # Imagens
-- Snap.svg - Usado para adapitar imagens svghttps://github.com/adobe-webplatform/Snap.svg
+- Snap.svg - Usado para adapitar imagens svg - https://github.com/adobe-webplatform/Snap.svg
 
 # Alert 
 - Sweetalert - usado para deixar o alert mais dinamico - https://github.com/t4t5/sweetalert
