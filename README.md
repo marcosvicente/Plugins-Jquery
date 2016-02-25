@@ -64,3 +64,6 @@ http://github.hubspot.com/shepherd/docs/welcome/
 http://ichord.github.io/At.js/
 http://bouncejs.com/#
 http://ichord.github.io/At.js/
+http://draggabilly.desandro.com/
+http://visjs.org/
+https://codegeekz.com/collection-of-best-javascript-libraries-for-2014/
