@@ -52,3 +52,12 @@ Three.js - pesquisar
 
 # Particules
 http://codepen.io/VincentGarreau/pen/pnlso
+
+# procurar
+
+http://tholman.com/intense-images/
+http://epochjs.github.io/epoch/
+https://mgechev.github.io/jscapture/
+https://github.com/space150/boba.js
+http://danieltao.com/lazy.js/
+http://github.hubspot.com/shepherd/docs/welcome/
