@@ -56,6 +56,8 @@ http://codepen.io/VincentGarreau/pen/pnlso
 # Contador de numeros
 - Contador de valores - Plugins com efeito de numeros - https://inorganik.github.io/countUp.js/
 
+# Manipolador de documentos
+- Esse pugin cria tabela, mapas e outros - https://d3js.org/
 # procurar
 
 http://tholman.com/intense-images/
