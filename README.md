@@ -53,6 +53,9 @@ Three.js - pesquisar
 # Particules
 http://codepen.io/VincentGarreau/pen/pnlso
 
+# Contador de numeros
+- Contador de valores - Plugins com efeito de numeros - https://inorganik.github.io/countUp.js/
+
 # procurar
 
 http://tholman.com/intense-images/
