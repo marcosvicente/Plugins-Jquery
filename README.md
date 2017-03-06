@@ -18,7 +18,7 @@
 
 # Loader  
 - Fake Loander - usado paa fazer loader da pagina antes de ela aparecer - https://github.com/joaopereirawd/fakeLoader.js
-
+- Image loader - usado para caregar Dinamicamente as imagens - http://imagesloaded.desandro.com/
 # Grid para imagens
 - Gridder - Usado para para grid em imagem , sistema paraecido com google imagens - https://github.com/oriongunning/gridder
 - Unitegalley - Usado para deixar as imagens todos possicionado de form dinamica - https://github.com/vvvmax/unitegallery/
