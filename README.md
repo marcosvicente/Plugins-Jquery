@@ -36,8 +36,11 @@ Three.js - pesquisar
 # Button 
 -Waves - usado para dar dinamidade nos buttons inpirado no material desing do google - https://github.com/fians/Waves
 
-#Formularios
+# Formularios
 - Zelect - usado para fazer o input mais dinamico e bonito - https://github.com/mtkopone/zelect
+
+# Validation
+- Jquery Validation - usado para criar validações com javascript
 
 # Mapa
 - jQuery-Mapael - usado para fazer mapas - https://github.com/neveldo/jQuery-Mapael
