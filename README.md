@@ -39,6 +39,8 @@ Three.js - pesquisar
 # Formularios
 - Zelect - usado para fazer o input mais dinamico e bonito - https://github.com/mtkopone/zelect
 
+# input files 
+-Dropfy - usado para deixar mais dinamico input file - http://jeremyfagis.github.io/dropify/
 # Validation
 - Jquery Validation - usado para criar validações com javascript
 
